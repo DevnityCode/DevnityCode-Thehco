@@ -201,7 +201,7 @@ const Footer = (props) => {
             <div className="footer_bottom">
                 <div className="container d-md-flex align-items-md-center justify-content-md-between">
                     <p className="copyright_text m-0">
-                        Copyright © 2024 
+                       Developed by DevnityCode Copyright © 2024 
                     </p>
                     
                 </div>
